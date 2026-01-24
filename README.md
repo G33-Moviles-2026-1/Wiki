@@ -5,7 +5,7 @@
 - Cesar Alejandro Avellaneda
 - Juan Esteban Álvarez
 - Juan David Roa
-- Gabriel Aritizabal
+- Gabriel Aristizabal
 - Mateo
 
 ## Quick links:
