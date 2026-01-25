@@ -6,7 +6,7 @@
 - Juan Esteban Álvarez
 - Juan David Roa
 - Gabriel Aristizabal
-- Mateo
+- Mateo Rubio
 
 ## Quick links:
 
