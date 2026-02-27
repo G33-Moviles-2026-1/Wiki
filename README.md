@@ -11,7 +11,7 @@
 ## Quick links:
 
 1. Documentation and deliverables can be found on the Wiki: https://github.com/G33-Moviles-2026-1/Wiki/wiki
-2. Repo for Flutter development: 
+2. Repo for Flutter development: https://github.com/G33-Moviles-2026-1/andespace_flutter
 3. Repo for Kotlin development: 
 4. The product backlog can be found in the Kanban board, which applies for all repos: [projects](https://github.com/orgs/G33-Moviles-2026-1/projects)
    
